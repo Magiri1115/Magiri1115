@@ -1,8 +1,9 @@
 ## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magiri1115&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Magiri1115&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Magiri1115&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Magiri1115&theme=default)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Magiri1115&theme=default&utcOffset=8)
 <!--
 **Magiri1115/Magiri1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
