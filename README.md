@@ -12,29 +12,17 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
 </div>
 
-### OSS Insight Overview
-
 <div align="center">
-  <a href="https://ossinsight.io/analyze/Magiri1115" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/user-dashboard-stats/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=dark" width="720" height="auto">
-      <img alt="Magiri1115's OSS Insight Stats" src="https://next.ossinsight.io/widgets/official/user-dashboard-stats/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=light" width="720" height="auto">
-    </picture>
-  </a>
-  <br />
-  <a href="https://ossinsight.io/analyze/Magiri1115" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/user-contribution-monthly/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=dark" width="720" height="auto">
-      <img alt="Magiri1115's Monthly Contributions" src="https://next.ossinsight.io/widgets/official/user-contribution-monthly/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=light" width="720" height="auto">
-    </picture>
-  </a>
-  <br />
-  <a href="https://ossinsight.io/analyze/Magiri1115" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/user-most-used-languages/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=dark" width="720" height="auto">
-      <img alt="Magiri1115's Most Used Languages" src="https://next.ossinsight.io/widgets/official/user-most-used-languages/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=light" width="720" height="auto">
-    </picture>
-  </a>
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=168350929" target="_blank" style="display: block" align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Magiri1115" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=light" width="771" height="auto">
+</picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </div>
 
 
