@@ -1,0 +1,76 @@
+name: Update OSS Insight Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 毎日0時に実行
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Update README
+        run: |
+          python <<EOF
+          import requests
+          import re
+          import os
+
+          url = "https://ossinsight.io/analyze/Magiri1115"
+          response = requests.get(url)
+          content = response.text
+
+          # HTMLタグを取り除いてテキストのみを抽出（簡易的）
+          text = re.sub('<[^>]*>', ' ', content)
+          text = ' '.join(text.split())
+
+          metrics = {
+              "Starred Repos": re.search(r"Starred Repos\s+(\d+)", text),
+              "Star Earned": re.search(r"Star Earned\s+(\d+)", text),
+              "Contributed to": re.search(r"Contributed to\s+(\d+)", text),
+              "Issues": re.search(r"Issues\s+(\d+)", text),
+              "Pull Requests": re.search(r"Pull Requests\s+(\d+)", text),
+              "Code Reviews": re.search(r"Code Reviews\s+(\d+)", text),
+              "PR Code Changes": re.search(r"PR Code Changes\s+([+-]?\d+\s*/\s*[+-]?\d+)", text)
+          }
+
+          new_table = "| Metric | Value |\n| :--- | :--- |\n"
+          for name, match in metrics.items():
+              val = match.group(1) if match else "N/A"
+              new_table += f"| {name} | {val} |\n"
+
+          readme_path = "README.md"
+          with open(readme_path, "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          start_tag = "<!-- OSS_INSIGHT_STATS_START -->"
+          end_tag = "<!-- OSS_INSIGHT_STATS_END -->"
+          
+          pattern = f"{start_tag}.*?{end_tag}"
+          replacement = f"{start_tag}\n{new_table}{end_tag}"
+          
+          new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          with open(readme_path, "w", encoding="utf-8") as f:
+              f.write(new_readme)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update OSS Insight stats" || echo "No changes to commit"
+          git push
