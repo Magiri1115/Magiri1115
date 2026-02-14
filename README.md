@@ -16,17 +16,11 @@
 
 ### OSS Insight Overview
 
-<!-- OSS_INSIGHT_STATS_START -->
-| Metric | Value |
-| :--- | :--- |
-| Starred Repos | 3 |
-| Star Earned | 2 |
-| Contributed to | 4 |
-| Issues | 6 |
-| Pull Requests | 13 |
-| Code Reviews | 0 |
-| PR Code Changes | +0 / -0 |
-<!-- OSS_INSIGHT_STATS_END -->
+<div align="center">
+  <img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats.svg?user=Magiri1115&theme=gradient" />
+  <img width="720" src="https://ossinsight.io/widgets/official/user-contribution-monthly.svg?user=Magiri1115&theme=gradient" />
+  <img width="720" src="https://ossinsight.io/widgets/official/user-most-used-languages.svg?user=Magiri1115&theme=gradient" />
+</div>
 
 
 <!--
