@@ -11,15 +11,13 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
 
-<img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats.svg?user_id=168350929&theme=gradient" />
+<img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats/thumbnail.png?user_id=168350929&theme=gradient" />
 </div>
 
-### OSS Insight Overview
-
 <div align="center">
-  <img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats.svg?user_id=168350929&theme=gradient" />
-  <img width="720" src="https://ossinsight.io/widgets/official/user-contribution-monthly.svg?user_id=168350929&theme=gradient" />
-  <img width="720" src="https://ossinsight.io/widgets/official/user-most-used-languages.svg?user_id=168350929&theme=gradient" />
+  <img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats/thumbnail.png?user_id=168350929&theme=gradient" />
+  <img width="720" src="https://ossinsight.io/widgets/official/user-contribution-monthly/thumbnail.png?user_id=168350929&theme=gradient" />
+  <img width="720" src="https://ossinsight.io/widgets/official/user-most-used-languages/thumbnail.png?user_id=168350929&theme=gradient" />
 </div>
 
 
