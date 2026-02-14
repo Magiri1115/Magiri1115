@@ -14,6 +14,21 @@
 <img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats.svg?user=Magiri1115&theme=gradient" />
 </div>
 
+### OSS Insight Overview
+
+<!-- OSS_INSIGHT_STATS_START -->
+| Metric | Value |
+| :--- | :--- |
+| Starred Repos | 3 |
+| Star Earned | 2 |
+| Contributed to | 4 |
+| Issues | 6 |
+| Pull Requests | 13 |
+| Code Reviews | 0 |
+| PR Code Changes | +0 / -0 |
+<!-- OSS_INSIGHT_STATS_END -->
+
+
 <!--
 **Magiri1115/Magiri1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
