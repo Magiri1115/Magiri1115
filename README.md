@@ -1,7 +1,4 @@
 <div align="center">
----
-
-## 📊 GitHub Dashboard
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magiri1115&theme=radical" />
 
@@ -10,12 +7,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Magiri1115&theme=radical&utcOffset=9" />
 
 ---
-
-## 🧑‍💻 Languages
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
+
+<img src="https://next.ossinsight.io/widgets/official/user-dashboard-stats.svg?user=Magiri1115&theme=gradient" />
 
 </div>
 
