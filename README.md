@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magiri1115&theme=radical" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Magiri1115&theme=radical" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Magiri1115&theme=radical&utcOffset=9" />
