@@ -12,6 +12,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
 </div>
 
+---
 <div align="center">
 <!-- Copy-paste in your Readme.md file -->
 
