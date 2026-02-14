@@ -11,7 +11,17 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
 
-<img width="720" src="https://ossinsight.io/widgets/official/user-dashboard-stats.svg?user=Magiri1115&theme=gradient" />
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Active Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 </div>
 
 <!--
