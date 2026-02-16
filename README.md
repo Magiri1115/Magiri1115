@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Magiri1115&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Magiri1115&theme=radical&bg_color=00000000&border_color=00000000" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Magiri1115&theme=radical&utcOffset=9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Magiri1115&theme=radical&utcOffset=9&bg_color=00000000&border_color=00000000" />
 
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
