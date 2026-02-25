@@ -24,6 +24,14 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Magiri1115/Magiri1115/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/Magiri1115/Magiri1115/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+</div>
 
 <!--
 **Magiri1115/Magiri1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
