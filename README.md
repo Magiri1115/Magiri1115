@@ -2,8 +2,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magiri1115&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Magiri1115&theme=radical&utcOffset=9" />
-
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Magiri1115&theme=transparent&bg_color=00000000&border_color=00000000" />
 
@@ -11,8 +9,10 @@
 </div>
 
 ---
+
+### Contributions
+
 <div align="center">
-<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=168350929" target="_blank" style="display: block" align="center">
 <picture>
@@ -20,13 +20,6 @@
     <img alt="Dashboard stats of @Magiri1115" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=168350929&image_size=auto&color_scheme=light" width="771" height="auto">
 </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-</div>
-
----
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/Magiri1115/Magiri1115/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 <img src="https://raw.githubusercontent.com/Magiri1115/Magiri1115/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
